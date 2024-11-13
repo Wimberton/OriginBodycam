@@ -2,7 +2,7 @@
 [OriginBodycam is the most powerful cheat available for Bodycam](https://getos.me/). It's completely free, and comes with tons of overpowered features like player and zombie ESP, visibility checks, aimbots, speedhacks, and more! OriginBodycam is under active development, so there may be a few bugs.
 
 ## Quick Links
-- ♥ [Download Latest DLL](https://github.com/Wimberton/OriginBodycam-Public/releases/tag/Release)
+- ♥ [Download Latest DLL](https://github.com/Wimberton/OriginBodycam/releases/tag/Release)
 - ♥ [Join Discord Server](https://discord.gg/originsoftware)
 
 <img align="center" src="https://i.gyazo.com/3a89405c73b7c5b1eed730ad8cc95e47.png" width="auto" height="auto">
