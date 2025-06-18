@@ -9,8 +9,8 @@
 
 ![OriginBodycam Screenshot](https://i.gyazo.com/87378102872a178b63a8b03b5b17db8a.jpg)
 
-## Off the Grid Game Compatibility
-- **Game Version:** 5.2.1-26001984
+## Bodycam Game Compatibility
+- **Game Version:** 0.1.4.1
 - **Client:** Steam
 - **Config Save:** Automatically saves configured values
 
@@ -41,25 +41,18 @@ Press `INSERT` to toggle the menu.
 - **ESP Distance:** Enable or disable drawing player distances, showing how far away they are.
 - **ESP Visibility Checks:** Show whether the enemy is behind cover (affects both ESP and aimbot).
 
-### Player ESP Features
+## ESP Features
+### Player, Zombies, Bots, Drones, Bombs
 - **Enable Player ESP:** Enable or disable drawing ESPs in-game.
-- **ESP Player Names:** Enable or disable drawing player names (shows enemy name).
-- **ESP Player Skeleton:** Enable or disable drawing player bone skeletons.
-- **ESP Player Health:** Show the enemy player's health bar on the left side of the box.
-- **ESP Player Lines:** Enable or disable drawing player trace lines (shows a trail to the enemy).
-- **Player Line From Top:** Toggle whether the player trace line originates from the top of the screen.
+- **ESP Player Names:** Enable or disable drawing names (shows enemy name).
+- **ESP Player Skeleton:** Enable or disable drawing bone skeletons.
+- **ESP Player Health:** Show the enemy health bar on the left side of the box.
+- **ESP Player Lines:** Enable or disable drawing trace lines (shows a trail to the enemy).
+- **Player Line From Top:** Toggle whether the trace line originates from the top of the screen.
 
 - **Visible ESP Color:** Choose the color of all ESP elements when the enemies are visible.
 - **Non-Visible ESP Color:** Choose the color of all ESP elements when the enemies are not visible.
 - **Aimed ESP Color:** Choose the color of all ESP elements when the enemies are aimbot-targeted.
-
-### Zombie ESP Features
-- **Enable Zombie ESP:** Enable or disable drawing ESPs in-game.
-- **ESP Zombie Names:** Enable or disable drawing player names (shows enemy name).
-- **ESP Zombie Skeleton:** Enable or disable drawing player bone skeletons.
-- **ESP Zombie Health:** Show the enemy player's health bar on the left side of the box.
-- **ESP Zombie Lines:** Enable or disable drawing player trace lines (shows a trail to the enemy).
-- **Zombie Line From Top:** Toggle whether the player trace line originates from the top of the screen.
 
 - **Visible ESP Color:** Choose the color of all ESP elements when the enemies are visible.
 - **Non-Visible ESP Color:** Choose the color of all ESP elements when the enemies are not visible.
