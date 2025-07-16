@@ -1,13 +1,13 @@
-# Download Best Free Bodycam Cheat, OriginBodycam
-[OriginBodycam is the most powerful cheat available for Bodycam](https://getos.me/). It's completely free, and comes with tons of overpowered features like player and zombie ESP, visibility checks, aimbots, speedhacks, and more! OriginBodycam is under active development, so there may be a few bugs.
+# Download Best Free Bodycam Cheat, Bodycam FENTRY
+[Bodycam FENTRY is the most powerful cheat available for Bodycam](https://www.fentry.org/). It's completely free, and comes with tons of overpowered features like player and zombie ESP, visibility checks, aimbots, speedhacks, and more! Bodycam FENTRY is under active development, so there may be a few bugs.
 
 ## Quick Links
-- ♥ [Download Latest DLL](https://github.com/Wimberton/OriginBodycam/releases/tag/Release)
-- ♥ [Join Discord Server](https://discord.gg/originsoftware)
+- ♥ [Download Latest DLL](https://github.com/Wimberton/Bodycam-FENTRY/releases/tag/Release)
+- ♥ [Join Discord Server](https://discord.gg/fentry)
 
 <img align="center" src="https://i.gyazo.com/3a89405c73b7c5b1eed730ad8cc95e47.png" width="auto" height="auto">
 
-![OriginBodycam Screenshot](https://i.gyazo.com/87378102872a178b63a8b03b5b17db8a.jpg)
+![Bodycam FENTRY Screenshot](https://i.gyazo.com/87378102872a178b63a8b03b5b17db8a.jpg)
 
 ## Bodycam Game Compatibility
 - **Game Version:** 0.1.4.1
@@ -24,15 +24,6 @@
 3. Press login
 
 Press `INSERT` to toggle the menu.
-
-## How to Purchase OriginBodycam
-**ALL-ACCESS IS CURRENTLY $5.99 / LIFETIME LICENSE**
-
-- Get the **Free Edition** by downloading via the manual download below.
-- Get the **Supporter Edition** by purchasing directly from our website.
-
-[GET FREE EDITION](https://getos.me/signin)  
-[GET SUPPORTER EDITION](https://getos.me/)
 
 <img align="center" src="https://i.gyazo.com/a31227e25a080e65054a4737a4baa6e1.png" width="auto" height="auto">
 
